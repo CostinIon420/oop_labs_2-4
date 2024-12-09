@@ -1,0 +1,7 @@
+new_file.txt
+file.txt
+neww.txt
+ne_new.txt
+sandu.txt
+1.png
+test.py
